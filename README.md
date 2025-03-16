@@ -1,6 +1,6 @@
 # Proiect_IC
 
-Menu Planner & Recipe Finder
+# Menu Planner & Recipe Finder
 
 Problem solving: Planning meals can be hard. This app suggests recipes based on interested ingredients and helps organize meals
 
